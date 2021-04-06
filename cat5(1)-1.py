@@ -103,10 +103,9 @@ logo =""" \033[97m
                            
  
    ##########################
-    #  TELEGRAM \ @LO1STT
-    #  Auther \ Lost-Zed
-    #  SITE  \ https://instabio.cc/LostSoftwere
-    #  TELGRAM CHANELL    \ @LO1STT1
+    #  TELEGRAM \ @i4m_fox
+    #  Auther \ fox
+    #  TELGRAM CHANELL    \ @fox_cracking
     #  Program language Python
     #  (:
     # TOOL :  FACEBOOK HACK
